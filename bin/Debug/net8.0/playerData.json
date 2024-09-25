@@ -1,0 +1,12 @@
+{
+  "CurrentWeapon": null,
+  "CurrentArmor": null,
+  "name": "rkdsk",
+  "level": 1,
+  "gold": 1000,
+  "health": 100,
+  "akp": 10,
+  "dkp": 5,
+  "exp": 0,
+  "inventory": []
+}
